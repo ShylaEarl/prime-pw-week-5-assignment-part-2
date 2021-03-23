@@ -14,5 +14,13 @@ body{
 
 .main{
   background-color: lightgray;
-  padding: 1em;
+  /* padding: 1em; I prefer the layout without the padding here*/
+}
+
+.footer{
+  background-color: lightgray;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
 }
