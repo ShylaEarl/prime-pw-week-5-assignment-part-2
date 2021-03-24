@@ -4,7 +4,7 @@ body{
   margin: 0px;
 }
 
-.header {
+header {
   background-color: black;
   color: lightgray;
   text-align: center;
@@ -12,12 +12,12 @@ body{
   padding-bottom: 5px;
 }
 
-.main{
+.main {
   background-color: lightgray;
   /* padding: 1em; I prefer the layout without the padding here*/
 }
 
-.footer{
+footer{
   background-color: lightgray;
   position: absolute;
   bottom: 0;
